@@ -1,0 +1,6 @@
+
+table test{
+   id:int;
+   str:string;
+}
+root_type test;
